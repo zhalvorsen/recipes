@@ -6,7 +6,7 @@
 - 2 tsp baking powder
 - 1/4 tsp sea salt
 - 1/2 tsp cinnamon
-- 3/4 cup plain greek yogurt
+- 3/4 cup (184 grams) plain greek yogurt
 - 1 cup milk
 - 1 egg
 - 1 tsp vanilla extract
