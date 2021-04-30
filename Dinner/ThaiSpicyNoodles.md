@@ -1,4 +1,5 @@
 # Thai Spicy Noodles
+[Source](https://lifemadesimplebakes.com/20-minute-spicy-thai-noodle-bowls/)
 
 ## Ingredients
 - 1 lb. spaghetti

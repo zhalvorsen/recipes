@@ -1,4 +1,5 @@
 # Black Bean Sweet Potato Enchiladas
+[Source](https://cookieandkate.com/black-bean-sweet-potato-enchiladas/)
 
 ## Filling
 - 1 1/4 pounds sweet potatoes (2 small-to-medium)

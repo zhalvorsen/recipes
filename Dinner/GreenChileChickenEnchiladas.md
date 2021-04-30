@@ -1,4 +1,5 @@
 # Green Chile Chicken Enchiladas
+[Source](https://www.wellplated.com/green-chile-chicken-enchiladas/)
 
 ## Ingredients
 - 1 pound boneless, skinless chicken breasts cooked and shredded (see cooking directions below if needed)

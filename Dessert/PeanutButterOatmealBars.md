@@ -1,4 +1,5 @@
 # Peanut Butter Oatmeal Bars
+[Source](https://lmld.org/peanut-butter-oatmeal-bars/)
 
 ## Ingredients
 - 1 cup creamy peanut butter

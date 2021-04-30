@@ -1,4 +1,5 @@
 # Chicken in Coconut Mango Verde Sauce
+[Source](https://carlsbadcravings.com/chicken-in-coconut-mango-verde-sauce-recipe/)
 
 ## Ingredients
 - 1 tablespoon olive oil

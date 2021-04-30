@@ -1,4 +1,5 @@
 # Coconut Curry
+[Source](https://hurrythefoodup.com/vegan-coconut-curry/)
 
 ## Ingredients
 - 1 cup brown rice

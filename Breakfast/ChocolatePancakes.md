@@ -1,4 +1,5 @@
 # Oatmeal Chocolate Chip Pancakes
+[Source](https://www.thehealthymaven.com/fluffiest-oatmeal-chocolate-chip-pancakes/)
 
 ## Ingredients
 - 2 cups oats

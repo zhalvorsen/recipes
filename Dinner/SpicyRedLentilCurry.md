@@ -1,4 +1,5 @@
 # Spice Red Lentil Curry
+[Source](https://minimalistbaker.com/spicy-red-lentil-curry/)
 
 - 2 tbsp coconut oil
 - 3 cloves garlic
