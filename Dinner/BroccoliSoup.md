@@ -1,5 +1,6 @@
 # Instant Pot Broccoli Cheddar Soup
 
+## Ingredients
 - 1 Tbsp butter
 - 1 medium yellow onion, diced
 - 2 or 3 celery ribs, diced
@@ -14,6 +15,7 @@
 - Freshly ground pepper, to taste
 - Optional: cornstarch and water
 
+## Directions
 1. Turn your Instant Pot to the saute function (“more”) and melt the 1 Tbsp of butter. When the butter is melted add in the diced onion. Saute for 3 minutes.
 1. Add in the celery, carrots, broccoli and chicken broth.
 1. Cover the Instant Pot and lock the lid in place. Make sure valve is on “sealing.” Set the manual button (or pressure cook button) to 1 minute.
