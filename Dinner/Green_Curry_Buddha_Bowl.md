@@ -27,4 +27,4 @@
 
 1. To make the curry sauce, combine all ingredients in a Vitamix blender and blend on high until for 2 minutes.
 1. In a small bowl, coat the mushrooms in the olive oil. Set a pot fitted with a steaming basket and 1 inch of water in it over low heat. Place the broccoli and mushrooms in the basket and steam until the broccoli is tender, about 5 minutes.
-1. Assemble bowl by layering the veggies over the brown rice and drizzling with curry sauce. Garnish with Toasted coconut, cilantro and a squeeze of lime. 
+1. Assemble bowl by layering the veggies over the brown rice and drizzling with curry sauce. Garnish with Toasted coconut, cilantro and a squeeze of lime.
