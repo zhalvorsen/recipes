@@ -2,12 +2,12 @@
 
 ## Ingredients
 
-A bunch of red potatoes
-4 hardboiled eggs
-Some Mayonnaise
-Some Pickles and pickle juice
-A squirt of yellow Mustard
-Salt and pepper
+- A bunch of red potatoes
+- 4 hardboiled eggs
+- Some Mayonnaise
+- Some Pickles and pickle juice
+- A squirt of yellow Mustard
+- Salt and pepper
 
 ## Directions
 
