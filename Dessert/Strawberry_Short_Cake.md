@@ -1,7 +1,9 @@
 # Strawberry Short Cake
+
 [Source](https://www.thecountrycook.net/strawberry-shortcake-cake/)
 
 ## Ingredients
+
 - 1 box white cake mix
 - additional ingredients to make cake; eggs, oil and water
 - 1 (8 oz) package cream cheese, softened to room temperature
@@ -11,6 +13,7 @@
 - 3 cups fresh strawberries, hulled and cut into bite size pieces
 
 ## Directions
+
 - Prepare white cake according to package directions for a 9" x 13" baking dish. Allow the cake to cool.
 - Then make the next layer. In a mixing bowl, combine softened cream cheese with powdered sugar until smooth.
 - Stir in thawed whipped topping and combine well.

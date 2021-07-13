@@ -1,7 +1,9 @@
 # Brownies
+
 [Source](https://www.loveandlemons.com/brownies-recipe/)
 
 ## Ingredients
+
 - 1 1/2 cups granulated sugar*
 - 3/4 cup all-purpose flour
 - 2/3 cup cocoa powder, sifted if lumpy
@@ -14,6 +16,7 @@
 - 1/2 teaspoon vanilla
 
 ## Directions
+
 1. Preheat the oven to 325°F. Lightly spray an 8x8 baking dish (not a 9x9 dish or your brownies will overcook) with cooking spray and line it with parchment paper. Spray the parchment paper.
 1. In a medium bowl, combine the sugar, flour, cocoa powder, powdered sugar, chocolate chips, and salt.
 1. In a large bowl, whisk together the eggs, olive oil, water, and vanilla.

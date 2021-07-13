@@ -1,7 +1,9 @@
 # Black Bean Sweet Potato Enchiladas
+
 [Source](https://cookieandkate.com/black-bean-sweet-potato-enchiladas/)
 
 ## Filling
+
 - 1 1/4 pounds sweet potatoes (2 small-to-medium)
 - 1 can (15 ounces) black beans, rinsed and drained, or 1 ½ cups cooked black beans
 - 4 ounces (1 cup) grated Monterey Jack cheese
@@ -17,6 +19,7 @@
 - Freshly ground black pepper
 
 ## Remaining Ingredients
+
 - 2 cups (16 ounces) mild salsa verde, either homemade or store-bought
 - 10 corn tortillas
 - 4 ounces (1 cup) grated Monterey Jack cheese
@@ -26,6 +29,7 @@
 - 1/4 cup chopped fresh cilantro
 
 ## Directions
+
 1. Preheat the oven to 400 degrees Fahrenheit and line a large baking sheet with parchment paper for easy cleanup.
 1. Slice the sweet potatoes in half lengthwise and coat the flat sides lightly with olive oil. Place the sweet potatoes flat-side down on the baking sheet. Bake until they’re tender and cooked through, about 30 to 35 minutes. Leave the oven on, since we’ll bake the assembled enchiladas soon (no temperature adjustments necessary).
 1. Meanwhile, pour enough salsa verde into a 9 by 13-inch baking dish to lightly cover the bottom (about ½ cup). In a medium mixing bowl, combine all of the remaining filling ingredients.
