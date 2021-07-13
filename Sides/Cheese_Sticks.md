@@ -1,7 +1,9 @@
 # Cheesy Breadsticks
+
 [Source](https://butterwithasideofbread.com/cheesy-breadsticks/#wprm-recipe-container-15714)
 
 ## Ingredients
+
 - 1 cup warm water
 - 1 TBSP yeast
 - 1 TBSP sugar
@@ -15,6 +17,7 @@
 - 2-3 cups shredded cheese mozzarella, Parmesan and Monterey Jack are our faves!
 
 ## Directions
+
 1. Combine warm water, yeast and sugar in a mixing bowl and let sit for about 3-4 minutes, until yeast is bubbling up. Add in oil, salt, garlic, onion powder and flour. Start with 2 1/2 cups of flour, then add more until the dough cleans the sides of the mixing bowl. (I use a mixer for this part as it makes it just so much easier!)
 1. Continue mixing for an additional 3-4 minutes, then cover with plastic wrap and let sit in a warm place for 15 minutes. In cold weather, I like to turn my oven on for about 3 or 4 minutes, then turn it off and let my dough rest in the oven.
 1. Preheat oven to 400 degrees F. Spray a cookie sheet with non-stick spray.

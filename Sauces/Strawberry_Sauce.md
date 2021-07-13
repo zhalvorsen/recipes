@@ -1,7 +1,9 @@
 # Strawberry Sauce (Topping)
+
 [Source](https://sallysbakingaddiction.com/homemade-strawberry-topping/#tasty-recipes-72779-jump-target)
 
 ## Ingredients
+
 - 1 Tablespoon cornstarch
 - 3 Tablespoons (45ml) warm water
 - 1 lb strawberries, hulled and sliced in half (you can use frozen; don’t thaw)
@@ -9,6 +11,7 @@
 - 1/4 cup (50g) granulated sugar
 
 ## Directions
+
 1. Whisk the cornstarch and water together until all the cornstarch has dissolved. (I just use a fork to mix– very easy.)
 1. Place the cornstarch mixture, along with the rest of the ingredients, into a small saucepan over medium heat. Using a wooden spoon or rubber spatula, stir the mixture as it cooks. Break up some of the strawberries as you stir.
 1. Bring it to a simmer and allow to simmer for 5 minutes, stirring constantly. After 5 minutes, remove pan from the heat and allow to cool. The mixture will thicken as it cools.

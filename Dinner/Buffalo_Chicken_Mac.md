@@ -1,7 +1,9 @@
 # Buffalo Chicken Mac and Cheese
+
 [Source](https://www.meatloafandmelodrama.com/instant-pot-buffalo-chicken-mac-and-cheese/)
 
 ## Ingredients
+
 - 4 tablespoons butter, divided
 - 1 pound boneless skinless chicken breasts, cubed (2 large)
 - 1 teaspoon sea salt
@@ -12,6 +14,7 @@
 - 3 1/2 cups shredded colby jack cheese
 
 ## Directions
+
 1. Hit SAUTE on Instant Pot, and when it reads HOT, add 2 tablespoons butter and chicken. Sprinkle with sea salt, and cook chicken until no longer pink, stirring frequently
 1. Pour 1/4 cup hot sauce over chicken, stir, then hit CANCEL to turn pressure cooker off
 1. Add uncooked macaroni and 2 tablespoons butter over chicken, then pour water over and around macaroni

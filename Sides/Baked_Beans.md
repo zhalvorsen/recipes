@@ -1,4 +1,4 @@
-# Allison's Baked Beans
+# Grandma Allison's Baked Beans
 
 ## Ingredients
 

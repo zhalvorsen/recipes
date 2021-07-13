@@ -1,7 +1,9 @@
 # Thai Spicy Noodles
+
 [Source](https://lifemadesimplebakes.com/20-minute-spicy-thai-noodle-bowls/)
 
 ## Ingredients
+
 - 1 lb. spaghetti
 - 1/4 c. vegetable or canola oil
 - 1 1/2 tsp. sesame oil
@@ -20,6 +22,7 @@
 - 2 tbsp. sesame seeds
 
 ## Directions
+
 1. Bring a large pot water to boil. Add spaghetti and cook till al dente.
 1. Meanwhile, in a small mixing bowl, combine the vegetable oil, sesame oil, soy sauce, rice vinegar, Sriracha, peanut butter, honey, minced garlic and minced green onion. Whisk vigorously until smooth.
 1. Drain the noodles and return to the same large pot. Add the sauce, red bell pepper, carrot, cilantro, peanuts, crushed red pepper flakes and sesame seeds. Toss until combined, serve and garnish as desired.

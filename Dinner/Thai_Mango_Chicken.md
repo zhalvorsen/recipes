@@ -1,8 +1,11 @@
 # Thai Mango Chicken
+
 [Source](https://www.thespruceeats.com/thai-mango-chicken-3217456)
 
 ## Ingredients
+
 ### For the Mango Sauce
+
 - 2 fresh ripe mangoes, peeled and sliced
 - 3 cloves garlic
 - 2 makrut lime leaves, cut into slivers with scissors, stem and central vein discarded
@@ -16,6 +19,7 @@
 - 1/4 teaspoon turmeric
 
 ### For the Chicken
+
 - 1 cup all-purpose flour
 - 1/2 teaspoon kosher salt
 - 1/4 cup peanut oil or coconut oil
@@ -26,7 +30,9 @@
 - 1/4 to 1/2 cup fresh cilantro
 
 ## Directions
+
 ### Make the Mango Sauce
+
 1. Gather the ingredients.
 1. Thai mango chicken sauce ingredients
 1. Place the mangoes, garlic, makrut lime leaves, chile, galangal, lime juice, fish sauce, soy sauce, rice vinegar, brown sugar, and turmeric in a food processor or blender. Process well until smooth.
@@ -34,6 +40,7 @@
 1. Taste the sauce. The goal is to reach a balance of sweet, sour, spicy, and salty. Add more sugar if you find the sauce too sour (this will depend on the sweetness of your mangoes). If not spicy enough, add more chile. If not salty/flavorful enough, add more fish sauce. If too salty or too sweet, add more lime juice. Set aside.
 
 ### Make the Chicken and Assemble
+
 1. Gather the ingredients.
 1. Thai Mango Chicken ingredients
 1. In a medium bowl, whisk together the flour and salt. Add the chicken pieces and turn or gently stir them to coat.
@@ -50,4 +57,4 @@
 1. Fried chicken and mango added to the wok
 1. Do a final taste test for salt, tasting the sauce together with the chicken. Add a little more fish sauce or chile if desired.
 1. Thai mango chicken in a wok ready to taste test
-1. Transfer to a serving dish and serve hot topped with cilantro. 
+1. Transfer to a serving dish and serve hot topped with cilantro.

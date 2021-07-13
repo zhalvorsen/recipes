@@ -1,4 +1,4 @@
-# Allison's Potato Salad
+# Grandma Allison's Potato Salad
 
 ## Ingredients
 

@@ -4,7 +4,7 @@
 - Rotisserie chicken
 - Yogurt
 - Lime juice
-- Cayanne pepper
+- Cayenne pepper
 - Peppers
 - Cashews
 - Mangos

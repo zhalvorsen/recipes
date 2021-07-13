@@ -1,7 +1,9 @@
 # Green Chile Chicken Enchiladas
+
 [Source](https://www.wellplated.com/green-chile-chicken-enchiladas/)
 
 ## Ingredients
+
 - 1 pound boneless, skinless chicken breasts cooked and shredded (see cooking directions below if needed)
 - 1 1/2 teaspoons kosher salt divided
 - 1 tablespoon extra-virgin olive oil
@@ -19,6 +21,7 @@
 - For serving: diced fresh tomato fresh cilantro, diced avocado, diced red onion, as desired
 
 ## Directions
+
 1. Preheat the oven to 350 degrees F. Lightly coat a 9x13-inch casserole dish with baking spray and set aside.
 1. Cook and shred chicken, following these easy steps*.
 1. To make the enchiladas: Heat the oil in a large skillet or sauté pan on medium heat. Once oil the is warm, add the peppers and onion. Cook, stirring occasionally, until the vegetables soften and the onions become translucent, about 8 to 10 minutes.

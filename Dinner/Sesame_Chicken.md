@@ -1,13 +1,16 @@
 # Asian Sweet Chili Sesame Chicken
+
 [Source](https://carlsbadcravings.com/asian-sweet-chili-sesame-chicken/#wprm-recipe-container-35290)
 
 ## Ingredients
+
 - 2 pounds chicken breasts (thawed)*
 - 1 1/2 tablespoons cornstarch
 - 1/4 cup water
 - sriracha to taste (optional)
 
 ## Sweet Chili Sesame Sauce
+
 - 2-4 tablespoons Asian sweet chili sauce (I use Mae Ploy)**
 - 1/3 cup low sodium soy sauce
 - 1/3 cup ketchup
@@ -22,6 +25,7 @@
 - 1/4 teaspoon pepper
 
 ## Directions
+
 1. Add chicken to the bottom of your crockpot.
 1. Whisk the Sweet Chili Sesame Sauce ingredients together in a medium bowl. Pour over chicken.
 1. Cook on low for 5-7 hours or on high for 3-4 hours OR until the chicken is tender enough to shred.

@@ -1,6 +1,7 @@
 # Grandma Allison's Cafe Rio Dressing
 
 ## Ingredients
+
 - 3 tomatillos, roasted
 - 5 tbsp fresh lime juice
 - 1 shallot, peeled
@@ -13,4 +14,5 @@
 - 3/4 cup extra-virgin olive oil (or a mixture of mayo and sour cream)
 
 ## Directions
+
 1. Blend everything together until smooth

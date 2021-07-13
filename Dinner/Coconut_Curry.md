@@ -1,7 +1,9 @@
 # Coconut Curry
+
 [Source](https://hurrythefoodup.com/vegan-coconut-curry/)
 
 ## Ingredients
+
 - 1 cup brown rice
 - 1 tbsp olive oil
 - 1 cup broccoli (or use green beans)
@@ -20,6 +22,7 @@
 - Roasted Cashews
 
 ## Directions
+
 1. If serving with rice, get that cooking now according to package instructions.
 1. Grate the sweet potato and the carrots.
 1. Chop the spring onion, broccoli, and zucchini.

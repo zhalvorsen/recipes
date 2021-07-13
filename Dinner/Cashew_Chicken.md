@@ -1,7 +1,9 @@
 # Thai Cashew Chicken
+
 [Source](https://hot-thai-kitchen.com/cashew-chicken)
 
 ## Ingredients
+
 - 400 grams boneless, skinless chicken
 - 1 Tbsp soy sauce
 - 3-4 cloves garlic, chopped
@@ -13,6 +15,7 @@
 - 7-10 fried, dried thai chilies
 
 ### Sauce
+
 - 1 tbsp oyster sauce
 - 1 tbsp soy sauce
 - 1 tsp Golden Mountain sauce or Maggi Seasoning
@@ -22,6 +25,7 @@
 - 1 tsp toasted sesame oil
 
 ## Directions
+
 1. Mix chicken ands oy sauce together in a bowl; set aside.
 1. Mix all sauce ingredients together in a bowl; set aside.
 1. Heat a little bit of vegetable oil in a large saute pan or a wok, and when hot, sear chicken on one side to obtain nice golden brown color. Remove the chicken from the pan and set aside. The chicken should only be partially done at this stage.

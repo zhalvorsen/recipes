@@ -1,8 +1,11 @@
 # Mango Chicken Curry
+
 [Source](https://carlsbadcravings.com/mango-chicken/#wprm-recipe-container-33672)
 
 ## Ingredients
+
 ### Stir fry
+
 - 2 tablespoons vegetable or canola oil
 - 1 1/2 pounds chicken breasts or thighs chopped into 1-inch pieces
 - 1/2 teaspoon salt
@@ -15,6 +18,7 @@
 - 1-3 teaspoons Asian chili sauce
 
 ### Blender Mango Sauce
+
 - 1 13.5 oz can coconut milk I like Chaokoh
 - 2 cups roughly chopped mango about 2 mangos (may sub frozen or jarred)
 - 1/2 large yellow onion roughly chopped
@@ -27,9 +31,11 @@
 - 1 teaspoon dried basil
 
 ### Add later
+
 - 1/4 cup loosely packed fresh Thai basil, chopped optional
 
 ## Directions
+
 1. Add all of the Blender Mango Sauce ingredients to your blender and blend until smooth. Set aside.
 1. While the chicken is still on the cutting board, pat it dry then season with ½ teaspoon salt and ¼ teaspoon pepper.
 1. Heat oil over medium high heat in large skillet (stainless-steel or cast iron) until very hot. Add chicken and red curry paste and cook just until most pieces are no longer pink (they will finish cooking in the sauce). Add bell peppers and continue to cook for 2 minutes.
