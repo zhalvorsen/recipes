@@ -14,8 +14,8 @@
 - 1 1/2 cups milk
 - Salt and pepper
 - 22-ounce package frozen cheese ravioli, thawed
-- 1 cup pepperjack cheese, shredded
-- 1 cup colbyjack cheese, shredded
+- 1 cup pepper jack cheese, shredded
+- 1 cup colby jack cheese, shredded
 
 ## Directions
 
