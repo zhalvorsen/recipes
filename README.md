@@ -1,6 +1,7 @@
 # Recipes
 
 ## Quick List of Dinner Ideas
+
 - Spaghetti with squashes
 - BLTs
 - Sauerkraut sandwiches
@@ -57,7 +58,9 @@
 - Chicken chipotle soup (potato or beans)
 
 ## To Add Images
+
 If you would like add a image to the recipe:
+
 1. Go to the image in Amazon Photos
 1. Click on 'Share'
 1. Click on 'Link'
