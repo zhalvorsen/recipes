@@ -2,6 +2,10 @@
 
 [Source](https://www.tasteandtellblog.com/teriyaki-chicken/)
 
+- [Teriyaki Sauce](#teriyaki-sauce)
+  - [Ingredients](#ingredients)
+  - [Directions](#directions)
+
 ## Ingredients
 
 - 1 cup water

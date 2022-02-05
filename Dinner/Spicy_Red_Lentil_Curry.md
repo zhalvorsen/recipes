@@ -2,6 +2,11 @@
 
 [Source](https://minimalistbaker.com/spicy-red-lentil-curry/)
 
+- [Spicy Red Lentil Curry](#spicy-red-lentil-curry)
+  - [Ingredients](#ingredients)
+  - [Directions](#directions)
+  - [For Serving](#for-serving)
+
 ## Ingredients
 
 - 2 tbsp coconut oil

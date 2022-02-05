@@ -2,6 +2,10 @@
 
 [Source](https://pinchofyum.com/roasted-red-pepper-sauce)
 
+- [Roasted Red Pepper Sauce](#roasted-red-pepper-sauce)
+  - [Ingredients](#ingredients)
+  - [Directions](#directions)
+
 ## Ingredients
 
 - 1 16-ounce jar roasted red peppers, drained

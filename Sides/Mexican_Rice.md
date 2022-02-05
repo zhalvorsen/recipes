@@ -1,5 +1,9 @@
 # Grandma Allison's Mexican Rice
 
+- [Grandma Allison's Mexican Rice](#grandma-allisons-mexican-rice)
+  - [Ingredients](#ingredients)
+  - [Directions](#directions)
+
 ## Ingredients
 
 - 1 1/2 cups white rice

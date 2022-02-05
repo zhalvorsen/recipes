@@ -1,5 +1,9 @@
 # Grandma Allison's Spudnuts
 
+- [Grandma Allison's Spudnuts](#grandma-allisons-spudnuts)
+  - [Ingredients](#ingredients)
+  - [Directions](#directions)
+
 ## Ingredients
 
 - 1 1/2 C milk

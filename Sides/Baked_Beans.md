@@ -1,5 +1,9 @@
 # Grandma Allison's Baked Beans
 
+- [Grandma Allison's Baked Beans](#grandma-allisons-baked-beans)
+  - [Ingredients](#ingredients)
+  - [Directions](#directions)
+
 ## Ingredients
 
 - 4 slices of bacon

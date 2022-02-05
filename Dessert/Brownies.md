@@ -2,6 +2,10 @@
 
 [Source](https://www.loveandlemons.com/brownies-recipe/)
 
+- [Brownies](#brownies)
+  - [Ingredients](#ingredients)
+  - [Directions](#directions)
+
 ## Ingredients
 
 - 1 1/2 cups granulated sugar*

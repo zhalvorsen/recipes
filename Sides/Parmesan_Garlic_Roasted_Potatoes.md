@@ -2,6 +2,10 @@
 
 [Source](https://fortheloveofcooking.net/2019/01/crispy-parmesan-garlic-roasted-baby-potatoes.html)
 
+- [Crispy Parmesan Garlic Roasted Baby Potatoes](#crispy-parmesan-garlic-roasted-baby-potatoes)
+  - [Ingredients](#ingredients)
+  - [Directions](#directions)
+
 ## Ingredients
 
 - 2 tbsp vegetable oil

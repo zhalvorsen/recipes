@@ -2,6 +2,11 @@
 
 [Source](https://carlsbadcravings.com/chicken-in-coconut-mango-verde-sauce-recipe/)
 
+- [Chicken in Coconut Mango Verde Sauce](#chicken-in-coconut-mango-verde-sauce)
+  - [Ingredients](#ingredients)
+  - [Coconut Mango Verde Sauce](#coconut-mango-verde-sauce)
+  - [Directions](#directions)
+
 ## Ingredients
 
 - 1 tablespoon olive oil

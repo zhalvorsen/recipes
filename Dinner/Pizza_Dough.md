@@ -2,6 +2,10 @@
 
 [Source](https://cooking.nytimes.com/recipes/1016230-robertas-pizza-dough)
 
+- [Pizza Dough](#pizza-dough)
+  - [Ingredients](#ingredients)
+  - [Directions](#directions)
+
 ## Ingredients
 
 - 153 grams 00 flour (1 cup plus 1 tablespoon)

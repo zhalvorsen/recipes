@@ -2,6 +2,11 @@
 
 [Source](https://thekitchenprepblog.com/mango-salmon-bowls-coconut-rice/)
 
+- [Tropical Salmon](#tropical-salmon)
+  - [Salmon](#salmon)
+  - [Sauce](#sauce)
+  - [Rice](#rice)
+
 ## Salmon
 
 - Salmon

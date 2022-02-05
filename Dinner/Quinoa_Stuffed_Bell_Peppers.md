@@ -2,6 +2,10 @@
 
 [Source](https://damndelicious.net/2013/06/03/quinoa-stuffed-bell-peppers/)
 
+- [Quinoa Stuffed Bell Peppers](#quinoa-stuffed-bell-peppers)
+  - [Ingredients](#ingredients)
+  - [Directions](#directions)
+
 ## Ingredients
 
 - 3 cups cooked quinoa

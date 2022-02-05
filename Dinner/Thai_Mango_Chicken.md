@@ -2,6 +2,14 @@
 
 [Source](https://www.thespruceeats.com/thai-mango-chicken-3217456)
 
+- [Thai Mango Chicken](#thai-mango-chicken)
+  - [Ingredients](#ingredients)
+    - [For the Mango Sauce](#for-the-mango-sauce)
+    - [For the Chicken](#for-the-chicken)
+  - [Directions](#directions)
+    - [Make the Mango Sauce](#make-the-mango-sauce)
+    - [Make the Chicken and Assemble](#make-the-chicken-and-assemble)
+
 ## Ingredients
 
 ### For the Mango Sauce

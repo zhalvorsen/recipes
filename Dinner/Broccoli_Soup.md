@@ -2,6 +2,10 @@
 
 [Source](https://www.365daysofcrockpot.com/instant-pot-broccoli-cheddar-soup/)
 
+- [Instant Pot Broccoli Cheddar Soup](#instant-pot-broccoli-cheddar-soup)
+  - [Ingredients](#ingredients)
+  - [Directions](#directions)
+
 ## Ingredients
 
 - 1 Tbsp butter

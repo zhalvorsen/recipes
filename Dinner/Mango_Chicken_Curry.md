@@ -2,6 +2,13 @@
 
 [Source](https://carlsbadcravings.com/mango-chicken/#wprm-recipe-container-33672)
 
+- [Mango Chicken Curry](#mango-chicken-curry)
+  - [Ingredients](#ingredients)
+    - [Stir fry](#stir-fry)
+    - [Blender Mango Sauce](#blender-mango-sauce)
+    - [Add later](#add-later)
+  - [Directions](#directions)
+
 ## Ingredients
 
 ### Stir fry

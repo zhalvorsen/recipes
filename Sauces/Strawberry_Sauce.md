@@ -2,6 +2,10 @@
 
 [Source](https://sallysbakingaddiction.com/homemade-strawberry-topping/#tasty-recipes-72779-jump-target)
 
+- [Strawberry Sauce (Topping)](#strawberry-sauce-topping)
+  - [Ingredients](#ingredients)
+  - [Directions](#directions)
+
 ## Ingredients
 
 - 1 Tablespoon cornstarch

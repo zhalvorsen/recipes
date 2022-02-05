@@ -2,6 +2,11 @@
 
 [Source](https://tidbits-marci.com/instant-pot-rainbow-thai-soup/)
 
+- [Rainbow Thai Soup](#rainbow-thai-soup)
+  - [Ingredients](#ingredients)
+  - [Directions](#directions)
+    - [Notes](#notes)
+
 ## Ingredients
 
 - 1 can lite coconut milk

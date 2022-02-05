@@ -2,6 +2,10 @@
 
 [Source](https://therecipecritic.com/triple-chocolate-peppermint-cookies/)
 
+- [Triple Chocolate Peppermint Cookies](#triple-chocolate-peppermint-cookies)
+  - [Ingredients](#ingredients)
+  - [Directions](#directions)
+
 ## Ingredients
 
 - 3/4 cup butter softened

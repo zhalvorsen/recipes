@@ -1,5 +1,11 @@
 # Grandma Allison's Coleslaw
 
+- [Grandma Allison's Coleslaw](#grandma-allisons-coleslaw)
+  - [Ingredients](#ingredients)
+    - [Salad](#salad)
+    - [Dressing](#dressing)
+  - [Directions](#directions)
+
 ## Ingredients
 
 ### Salad

@@ -2,6 +2,12 @@
 
 [Source](https://www.lifeloveandsugar.com/moist-homemade-chocolate-cupcakes/)
 
+- [Moist Chocolate Cupcakes](#moist-chocolate-cupcakes)
+  - [Ingredients](#ingredients)
+    - [Chocolate Cupcakes](#chocolate-cupcakes)
+    - [Chocolate Frosting](#chocolate-frosting)
+  - [Directions](#directions)
+
 ## Ingredients
 
 ### Chocolate Cupcakes

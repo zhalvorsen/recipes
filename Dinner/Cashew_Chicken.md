@@ -2,6 +2,11 @@
 
 [Source](https://hot-thai-kitchen.com/cashew-chicken)
 
+- [Thai Cashew Chicken](#thai-cashew-chicken)
+  - [Ingredients](#ingredients)
+    - [Sauce](#sauce)
+  - [Directions](#directions)
+
 ## Ingredients
 
 - 400 grams boneless, skinless chicken

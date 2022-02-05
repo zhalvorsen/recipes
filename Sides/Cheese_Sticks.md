@@ -2,6 +2,10 @@
 
 [Source](https://butterwithasideofbread.com/cheesy-breadsticks/#wprm-recipe-container-15714)
 
+- [Cheesy Breadsticks](#cheesy-breadsticks)
+  - [Ingredients](#ingredients)
+  - [Directions](#directions)
+
 ## Ingredients
 
 - 1 cup warm water

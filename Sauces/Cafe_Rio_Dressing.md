@@ -1,5 +1,9 @@
 # Grandma Allison's Cafe Rio Dressing
 
+- [Grandma Allison's Cafe Rio Dressing](#grandma-allisons-cafe-rio-dressing)
+  - [Ingredients](#ingredients)
+  - [Directions](#directions)
+
 ## Ingredients
 
 - 3 tomatillos, roasted

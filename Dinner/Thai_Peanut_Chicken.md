@@ -2,6 +2,10 @@
 
 [Source](https://dinnerthendessert.com/slow-cooker-thai-peanut-chicken/#wprm-recipe-container-10204)
 
+- [Slow Cooker Thai Peanut Chicken](#slow-cooker-thai-peanut-chicken)
+  - [Ingredients](#ingredients)
+  - [Directions](#directions)
+
 ## Ingredients
 
 - 1 cup coconut milk about a half a can

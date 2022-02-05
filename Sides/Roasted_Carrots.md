@@ -2,6 +2,12 @@
 
 [Source](https://www.chelseasmessyapron.com/roasted-carrots/)
 
+- [Roasted Carrots](#roasted-carrots)
+  - [Ingredients](#ingredients)
+    - [Savory Carrots](#savory-carrots)
+    - [Sweet Carrots](#sweet-carrots)
+  - [Directions](#directions)
+
 ## Ingredients
 
 - 2 pounds carrots, peeled and sliced on diagonal

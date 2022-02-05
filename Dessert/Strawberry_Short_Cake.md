@@ -2,6 +2,10 @@
 
 [Source](https://www.thecountrycook.net/strawberry-shortcake-cake/)
 
+- [Strawberry Short Cake](#strawberry-short-cake)
+  - [Ingredients](#ingredients)
+  - [Directions](#directions)
+
 ## Ingredients
 
 - 1 box white cake mix

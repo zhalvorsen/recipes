@@ -2,6 +2,15 @@
 
 [Source](https://yestoyolks.com/2019/02/28/quick-easy-spicy-peanut-noodles-with-mango/)
 
+- [Spicy Peanut Mango Noodles](#spicy-peanut-mango-noodles)
+  - [Ingredients](#ingredients)
+    - [Sauce Ingredients](#sauce-ingredients)
+    - [Noodles Ingredients](#noodles-ingredients)
+  - [Directions](#directions)
+    - [Start](#start)
+    - [Sauce Directions](#sauce-directions)
+    - [Noodle Directions](#noodle-directions)
+
 ## Ingredients
 
 ### Sauce Ingredients

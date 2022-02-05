@@ -2,6 +2,11 @@
 
 [Source](https://themodernproper.com/green-curry-buddha-bowl)
 
+- [Green Curry Buddha Bowl](#green-curry-buddha-bowl)
+  - [Ingredients](#ingredients)
+    - [Green Curry Sauce](#green-curry-sauce)
+  - [Directions](#directions)
+
 ## Ingredients
 
 - 4 cups Brown rice, cooked

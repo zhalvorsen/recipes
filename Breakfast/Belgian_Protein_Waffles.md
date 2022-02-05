@@ -2,6 +2,10 @@
 
 [Source](https://ameessavorydish.com/belgian-protein-waffles/#wprm-recipe-container-15761)
 
+- [Belgian Protein Waffles](#belgian-protein-waffles)
+  - [Ingredients](#ingredients)
+  - [Directions](#directions)
+
 ## Ingredients
 
 - 1 cup 2% cottage cheese I love and use Good Culture cottage cheese because of the quality, flavor and thick texture

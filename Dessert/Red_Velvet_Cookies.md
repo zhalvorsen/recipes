@@ -2,6 +2,13 @@
 
 [Source](https://tastesbetterfromscratch.com/red-velvet-cookies-with-cream-cheese-filling/)
 
+- [Red Velvet Cookies](#red-velvet-cookies)
+  - [Ingredients](#ingredients)
+  - [Cream Cheese filling](#cream-cheese-filling)
+  - [Directions](#directions)
+    - [For the cookies](#for-the-cookies)
+    - [For the cream cheese filling](#for-the-cream-cheese-filling)
+
 ## Ingredients
 
 - 1 1/2 cups all-purpose flour

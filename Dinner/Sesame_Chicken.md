@@ -2,6 +2,11 @@
 
 [Source](https://carlsbadcravings.com/asian-sweet-chili-sesame-chicken/#wprm-recipe-container-35290)
 
+- [Asian Sweet Chili Sesame Chicken](#asian-sweet-chili-sesame-chicken)
+  - [Ingredients](#ingredients)
+  - [Sweet Chili Sesame Sauce](#sweet-chili-sesame-sauce)
+  - [Directions](#directions)
+
 ## Ingredients
 
 - 2 pounds chicken breasts (thawed)*

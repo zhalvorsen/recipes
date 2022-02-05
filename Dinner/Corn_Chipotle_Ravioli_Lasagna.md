@@ -1,5 +1,9 @@
 # Corn Chipotle Ravioli Lasagna
 
+- [Corn Chipotle Ravioli Lasagna](#corn-chipotle-ravioli-lasagna)
+  - [Ingredients](#ingredients)
+  - [Directions](#directions)
+
 ## Ingredients
 
 - 3 tbsp butter

@@ -2,6 +2,12 @@
 
 [Source](https://www.cooksillustrated.com/recipes/4412-creamless-creamy-tomato-soup?incode=MCSCM00L0&ref=new_search_experience_1&t=1633892058)
 
+- [Grandma Allison's Creamless Creamy Tomato Soup](#grandma-allisons-creamless-creamy-tomato-soup)
+  - [Ingredients](#ingredients)
+  - [Directions](#directions)
+    - [Before you begin](#before-you-begin)
+    - [Instructions](#instructions)
+
 ## Ingredients
 
 - 1/4 cup extra-virgin olive oil, plus more for drizzling

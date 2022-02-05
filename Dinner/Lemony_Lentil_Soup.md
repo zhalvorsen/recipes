@@ -2,6 +2,10 @@
 
 [Source](https://www.gimmesomeoven.com/lemony-lentil-soup/)
 
+- [Lemony Lentil Soup](#lemony-lentil-soup)
+  - [Ingredients](#ingredients)
+  - [Directions](#directions)
+
 ## Ingredients
 
 - 1 tablespoon olive oil

@@ -1,5 +1,9 @@
 # Grandma Allison's Potato Salad
 
+- [Grandma Allison's Potato Salad](#grandma-allisons-potato-salad)
+  - [Ingredients](#ingredients)
+  - [Directions](#directions)
+
 ## Ingredients
 
 - A bunch of red potatoes

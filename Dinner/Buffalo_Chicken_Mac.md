@@ -2,6 +2,10 @@
 
 [Source](https://www.meatloafandmelodrama.com/instant-pot-buffalo-chicken-mac-and-cheese/)
 
+- [Buffalo Chicken Mac and Cheese](#buffalo-chicken-mac-and-cheese)
+  - [Ingredients](#ingredients)
+  - [Directions](#directions)
+
 ## Ingredients
 
 - 4 tablespoons butter, divided

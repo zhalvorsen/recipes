@@ -2,6 +2,10 @@
 
 [Source](https://www.chilipeppermadness.com/chili-pepper-recipes/sauces/chipotle-sauce/#wprm-recipe-container-4284)
 
+- [Chipotle Sauce](#chipotle-sauce)
+  - [Ingredients](#ingredients)
+  - [Directions](#directions)
+
 ## Ingredients
 
 - 7 ounce can chipotles in adobo sauce or use chipotle sauce

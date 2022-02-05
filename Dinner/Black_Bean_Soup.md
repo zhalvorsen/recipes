@@ -2,6 +2,10 @@
 
 [Source](https://www.onceuponachef.com/recipes/black-bean-soup.html)
 
+- [Black Bean Soup](#black-bean-soup)
+  - [Ingredients](#ingredients)
+  - [Directions](#directions)
+
 ## Ingredients
 
 - 2 tablespoons extra virgin olive oil

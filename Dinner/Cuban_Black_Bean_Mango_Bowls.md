@@ -2,6 +2,13 @@
 
 [Source](https://simple-veganista.com/cuban-black-bean-mango-bowl/#tasty-recipes-8325-jump-target)
 
+- [Cuban Black Bean and Mango Bowls](#cuban-black-bean-and-mango-bowls)
+  - [Ingredients](#ingredients)
+    - [Cuban Black Beans](#cuban-black-beans)
+    - [Quinoa](#quinoa)
+    - [Toppings](#toppings)
+  - [Directions](#directions)
+
 ## Ingredients
 
 ### Cuban Black Beans
