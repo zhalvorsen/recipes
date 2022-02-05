@@ -1,6 +1,6 @@
 # Grandma Allison's Creamless Creamy Tomato Soup
 
-[Source]([website_com](https://www.cooksillustrated.com/recipes/4412-creamless-creamy-tomato-soup?incode=MCSCM00L0&ref=new_search_experience_1&t=1633892058))
+[Source](https://www.cooksillustrated.com/recipes/4412-creamless-creamy-tomato-soup?incode=MCSCM00L0&ref=new_search_experience_1&t=1633892058)
 
 ## Ingredients
 
