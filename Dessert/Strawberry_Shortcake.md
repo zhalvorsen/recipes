@@ -13,7 +13,7 @@
 - 1 (8 oz) package cream cheese, softened to room temperature
 - 1/2 cup powdered sugar
 - 1 (8 oz) container whipped topping (COOL WHIP), thawed
-- 1 (13.5 oz) container premade strawberry glaze
+- 1 (13.5 oz) container pre-made strawberry glaze
 - 3 cups fresh strawberries, hulled and cut into bite size pieces
 
 ## Directions
