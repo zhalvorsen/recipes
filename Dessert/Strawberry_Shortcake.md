@@ -1,8 +1,8 @@
-# Strawberry Short Cake
+# Strawberry Shortcake
 
 [Source](https://www.thecountrycook.net/strawberry-shortcake-cake/)
 
-- [Strawberry Short Cake](#strawberry-short-cake)
+- [Strawberry Shortcake](#strawberry-shortcake)
   - [Ingredients](#ingredients)
   - [Directions](#directions)
 
