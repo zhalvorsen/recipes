@@ -16,6 +16,7 @@
 
 - [Belgian Protein Waffles](Breakfast/Belgian_Protein_Waffles.md)
 - [Chocolate Pancakes](Breakfast/Chocolate_Pancakes.md)
+- [Overnight Oats](Breakfast/Overnight_Oats.md)
 
 ### Dessert
 
@@ -35,6 +36,7 @@
 - [Broccoli Soup](Dinner/Broccoli_Soup.md)
 - [Buffalo Chicken Mac & Cheese](Dinner/Buffalo_Chicken_Mac.md)
 - [Cashew Chicken](Dinner/Cashew_Chicken.md)
+- [Cauliflower Feta Orzo Salad](Dinner/Cauliflower_Feta_Orzo_Salad.md)
 - [Chicken Avocado Strawberry Sandwiches](Dinner/Chicken_Avocado_Strawberry_Sandwiches.md)
 - [Coconut Curry](Dinner/Coconut_Curry.md)
 - [Coconut Mango Verde Chicken](Dinner/Coconut_Mango_Verde_Chicken.md)
@@ -43,11 +45,13 @@
 - [Cuban Black Bean Mango Bowls](Dinner/Cuban_Black_Bean_Mango_Bowls.md)
 - [Green Chile Chicken Enchiladas](Dinner/Green_Chile_Chicken_Enchiladas.md)
 - [Green Curry Buddha Bowls](Dinner/Green_Curry_Buddha_Bowl.md)
+- [Ham Shepherd's Pie](Dinner/Ham_Shepherds_Pie.md)
 - [Lemony Lentil Soup](Dinner/Lemony_Lentil_Soup.md)
 - [Mango Bowls](Dinner/Mango_Bowls.md)
 - [Mango Chicken Curry](Dinner/Mango_Chicken_Curry.md)
 - [Mango Chicken Salad](Dinner/Mango_Chicken_Salad.md)
 - [Mediterranean Quinoa Bowls](Dinner/Mediterranean_Quinoa_Bowls.md)
+- [Pierogi](Dinner/Pierogi.md)
 - [Pizza Dough](Dinner/Pizza_Dough.md)
 - [Quinoa Stuffed Bell Peppers](Dinner/Quinoa_Stuffed_Bell_Peppers.md)
 - [Rainbow Thai Soup](Dinner/Rainbow_Thai_Soup.md)
@@ -59,6 +63,8 @@
 - [Thai Spicy Noodles](Dinner/Thai_Spicy_Noodles.md)
 - [Tortellini Spinach Chicken Soup](Dinner/Tortellini_Spinach_Chicken_Soup.md)
 - [Tropical Salmon](Dinner/Tropical_Salmon.md)
+- [White Bean Soup](Dinner/White_Bean_Soup.md)
+- [Zucchini and White Bean Fritters](Dinner/Zucchini_and_White_Bean_Fritters.md)
 
 ### Sauces
 
@@ -72,9 +78,11 @@
 ### Sides
 
 - [Baked Beans](Sides/Baked_Beans.md)
+- [Black Beans](Sides/Black_Beans.md)
 - [Cheese Sticks](Sides/Cheese_Sticks.md)
 - [Coleslaw](Sides/Coleslaw.md)
 - [Garlic Green Beans with Parmesan](Sides/Garlic_Green_Beans_with_Parmesan.md)
+- [Mashed Potatoes](Sides/Mashed_Potatoes.md)
 - [Mexican Rice](Sides/Mexican_Rice.md)
 - [Parmesan Garlic Roasted Potatoes](Sides/Parmesan_Garlic_Roasted_Potatoes.md)
 - [Potato Salad](Sides/Potato_Salad.md)
