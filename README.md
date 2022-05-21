@@ -58,6 +58,7 @@
 - [Sesame Chicken](Dinner/Sesame_Chicken.md)
 - [Spicy Peanut Mango Noodles](Dinner/Spicy_Peanut_Mango_Noodles.md)
 - [Spicy Red Lentil Curry](Dinner/Spicy_Red_Lentil_Curry.md)
+- [Sweet Potato Pear and Pomegranate Salad](Dinner/Sweet_Potato_Pear_Pomegranate_Salad.md)
 - [Thai Mango Chicken](Dinner/Thai_Mango_Chicken.md)
 - [Thai Peanut Chicken](Dinner/Thai_Peanut_Chicken.md)
 - [Thai Spicy Noodles](Dinner/Thai_Spicy_Noodles.md)
