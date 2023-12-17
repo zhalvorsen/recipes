@@ -21,5 +21,3 @@
 ## Directions
 
 Put everything besides the chocolate chips in the Blendtec. Cook on the griddle, adding chocolate chips after pouring batter.
-
-![Chocolate Pancakes](https://thumbnails-photos.amazon.com/v1/thumbnail/Z7OcMTZpQL2Eg0m6_vf2jg?viewBox=524%2C698&ownerId=AQX5UU8XHTLBL&groupShareToken=zq7ClhgJSGmPuh5OMUrS0A.jJ970sAd9VCq9lHWmFMAmD)
